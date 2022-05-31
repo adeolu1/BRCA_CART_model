@@ -3,7 +3,7 @@ This program performs stratified 10-fold Cross-validation (CV) and Stratified 10
 
 To run the code examples, python version 3.8.5 is required, which can be downloaded from https://www.python.org/downloads/?fbclid=IwAR1VrxINLd7djn_4UuQTxshpya9D2wmt_H0jnUaJrEXVCoalD3viphyLRyI
 
-Python Libraries used in this study are listed below and can be installed using Python’s in-build Pip module by execute the code directly from Linux terminal command line.
+Python Libraries used in this study are listed below and can be installed using Python’s in-build pip module by executing the code directly from Linux terminal command line.
 
     Pandas version 1.2.3
     Scikit-learn version 0.20.1
