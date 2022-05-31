@@ -1,7 +1,7 @@
 # BRCA_CART_model
 This program performs stratified 10-fold Cross-validation (CV) and Stratified 10X10 nested-CV) to evaluate optimized predictive models based on datasets derived from the TCGA-BRCA project (https://gdc.cancer.gov/).
 
-To run the code examples, python version 3.8.5 is required, which can be downloaded from https://www.python.org/downloads/?fbclid=IwAR1VrxINLd7djn_4UuQTxshpya9D2wmt_H0jnUaJrEXVCoalD3viphyLRyI
+To run the code examples, python version 3.7.3 is required, which can be downloaded from https://www.python.org/downloads/?fbclid=IwAR1VrxINLd7djn_4UuQTxshpya9D2wmt_H0jnUaJrEXVCoalD3viphyLRyI
 
 Python Libraries used in this study are listed below and can be installed using Python’s in-build pip module by executing the code directly from Linux terminal command line.
 
