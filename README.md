@@ -45,6 +45,6 @@ Optional arguments:
 
 Examples of command lines:
 - Building the CART model using the isomiR dataset (provided above) by 10-fold cross-validation 5 repetition, apply sample weight and normalize the data: 
-$ CART_model.py -i isomiR.tsv -c CART -r 5 -m MCC -sw -n
+$ CART_model.py -i BRCA_Doxorubicin_isomiR_RPM.tsv -c CART -r 5 -m MCC -sw -n
 
  
