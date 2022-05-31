@@ -15,7 +15,7 @@ Python Libraries used in this study are listed below and can be installed using 
     Numpy version 1.20.2
     Seaborn version 0.11.1
 
-Code example shoud be executed directly in the working directory from the Linux terminal command line
+Code example should be executed directly in the working directory from the Linux terminal command line
 
 Usage: CART.py [-h] -I DATASET -c CLASSIFIER [-p HYPERPARAM] [-r NB_RANDOM_SEEDS] [-m METRIC] [-SW] [-log2] [-imp] [-t]
 
